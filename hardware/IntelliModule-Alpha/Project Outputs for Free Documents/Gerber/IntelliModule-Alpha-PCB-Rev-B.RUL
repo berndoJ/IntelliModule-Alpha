@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\Johannes\Documents\GitHub\IntelliModule-Alpha\hardware\IntelliModule-Alpha\IntelliModule-Alpha-PCB-Rev-B.PcbDoc
+RuleKind=Clearance|RuleName=Clearance DiffPairs|Scope=Board|Minimum=3.50
+RuleKind=Width|RuleName=Width Power|Scope=Board|Minimum=3.50
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.98
+RuleKind=Width|RuleName=Width Default|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.50
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,13 @@
+Output: IntelliModule-Alpha-PCB-Rev-B-DrillFiles
+Type  : NC Drill
+From  : PCB Document [IntelliModule-Alpha-PCB-Rev-B.PcbDoc]
+   Generated File[IntelliModule-Alpha-PCB-Rev-B-Plated.TXT]
+   Generated File[IntelliModule-Alpha-PCB-Rev-B.DRL]
+   Generated File[IntelliModule-Alpha-PCB-Rev-B.LDP]
+   Generated File[IntelliModule-Alpha-PCB-Rev-B.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:36:55 On 03.11.2019
