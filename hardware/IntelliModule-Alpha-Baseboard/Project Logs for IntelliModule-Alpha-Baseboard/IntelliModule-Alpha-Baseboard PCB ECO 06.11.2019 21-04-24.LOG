@@ -1,0 +1,12 @@
+Added Component: Designator=MH1(MECH-HOLE-PTH-2.85MM-5.4MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH2(MECH-HOLE-PTH-2.85MM-5.4MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH3(MECH-HOLE-PTH-2.85MM-5.4MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH4(MECH-HOLE-PTH-2.85MM-5.4MM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1

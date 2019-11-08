@@ -1,0 +1,14 @@
+Output: IntelliModule-Alpha-Baseboard-RevA-Drill
+Type  : NC Drill
+From  : PCB Document [IntelliModule-Alpha-Baseboard.PcbDoc]
+   Generated File[IntelliModule-Alpha-Baseboard-Plated.TXT]
+   Generated File[IntelliModule-Alpha-Baseboard-NonPlated.TXT]
+   Generated File[IntelliModule-Alpha-Baseboard.DRL]
+   Generated File[IntelliModule-Alpha-Baseboard.LDP]
+   Generated File[IntelliModule-Alpha-Baseboard.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 19:40:26 On 08.11.2019

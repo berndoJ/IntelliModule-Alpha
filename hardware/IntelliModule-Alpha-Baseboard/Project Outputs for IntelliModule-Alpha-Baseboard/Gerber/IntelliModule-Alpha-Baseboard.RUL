@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Johannes\Documents\GitHub\IntelliModule-Alpha\hardware\IntelliModule-Alpha-Baseboard\IntelliModule-Alpha-Baseboard.PcbDoc
+RuleKind=Width|RuleName=Width Power Nets|Scope=Board|Minimum=3.50
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.98
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.50
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
